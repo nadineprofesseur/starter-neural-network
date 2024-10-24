@@ -4,9 +4,7 @@ Automation : Capture d'écran
 Two : Capture d'écran  
 
 **SIMULATEURS de NEURONES**  
-Simulateur de neurone simple : 
 Capture d'écran  pour le NOT  
-Simulateur de perceptron : 
 Capture d'écran pour le ET  
 Capture d'écran pour le OU  
 Capture d'écran pour le XOR  
